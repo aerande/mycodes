@@ -1,0 +1,20 @@
+D:\Project\DivingApp\DAL\bin\Debug\DAL.dll
+D:\Project\DivingApp\DAL\bin\Debug\DAL.pdb
+D:\Project\DivingApp\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\DivingApp\DAL\obj\Debug\DAL.dll
+D:\Project\DivingApp\DAL\obj\Debug\DAL.pdb
+D:\S7 Universe !\Confined World\My Pieces of Parchment\Project\Project Samay Soft Working\DivingApp\DAL\bin\Debug\DAL.dll
+D:\S7 Universe !\Confined World\My Pieces of Parchment\Project\Project Samay Soft Working\DivingApp\DAL\bin\Debug\DAL.pdb
+D:\S7 Universe !\Confined World\My Pieces of Parchment\Project\Project Samay Soft Working\DivingApp\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\S7 Universe !\Confined World\My Pieces of Parchment\Project\Project Samay Soft Working\DivingApp\DAL\obj\Debug\DAL.dll
+D:\S7 Universe !\Confined World\My Pieces of Parchment\Project\Project Samay Soft Working\DivingApp\DAL\obj\Debug\DAL.pdb
+D:\DivingApp\DAL\bin\Debug\DAL.dll
+D:\DivingApp\DAL\bin\Debug\DAL.pdb
+D:\DivingApp\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\DivingApp\DAL\obj\Debug\DAL.dll
+D:\DivingApp\DAL\obj\Debug\DAL.pdb
+C:\Users\aniru\Downloads\DivingApp\DAL\bin\Debug\DAL.dll
+C:\Users\aniru\Downloads\DivingApp\DAL\bin\Debug\DAL.pdb
+C:\Users\aniru\Downloads\DivingApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\aniru\Downloads\DivingApp\DAL\obj\Debug\DAL.dll
+C:\Users\aniru\Downloads\DivingApp\DAL\obj\Debug\DAL.pdb

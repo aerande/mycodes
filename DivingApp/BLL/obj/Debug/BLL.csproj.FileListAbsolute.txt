@@ -1,0 +1,28 @@
+D:\Project\DivingApp\BLL\bin\Debug\BLL.dll
+D:\Project\DivingApp\BLL\bin\Debug\BLL.pdb
+D:\Project\DivingApp\BLL\bin\Debug\DAL.dll
+D:\Project\DivingApp\BLL\bin\Debug\DAL.pdb
+D:\Project\DivingApp\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\DivingApp\BLL\obj\Debug\BLL.dll
+D:\Project\DivingApp\BLL\obj\Debug\BLL.pdb
+D:\S7 Universe !\Confined World\My Pieces of Parchment\Project\Project Samay Soft Working\DivingApp\BLL\bin\Debug\BLL.dll
+D:\S7 Universe !\Confined World\My Pieces of Parchment\Project\Project Samay Soft Working\DivingApp\BLL\bin\Debug\BLL.pdb
+D:\S7 Universe !\Confined World\My Pieces of Parchment\Project\Project Samay Soft Working\DivingApp\BLL\bin\Debug\DAL.dll
+D:\S7 Universe !\Confined World\My Pieces of Parchment\Project\Project Samay Soft Working\DivingApp\BLL\bin\Debug\DAL.pdb
+D:\S7 Universe !\Confined World\My Pieces of Parchment\Project\Project Samay Soft Working\DivingApp\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\S7 Universe !\Confined World\My Pieces of Parchment\Project\Project Samay Soft Working\DivingApp\BLL\obj\Debug\BLL.dll
+D:\S7 Universe !\Confined World\My Pieces of Parchment\Project\Project Samay Soft Working\DivingApp\BLL\obj\Debug\BLL.pdb
+D:\DivingApp\BLL\bin\Debug\BLL.dll
+D:\DivingApp\BLL\bin\Debug\BLL.pdb
+D:\DivingApp\BLL\bin\Debug\DAL.dll
+D:\DivingApp\BLL\bin\Debug\DAL.pdb
+D:\DivingApp\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\DivingApp\BLL\obj\Debug\BLL.dll
+D:\DivingApp\BLL\obj\Debug\BLL.pdb
+C:\Users\aniru\Downloads\DivingApp\BLL\bin\Debug\BLL.dll
+C:\Users\aniru\Downloads\DivingApp\BLL\bin\Debug\BLL.pdb
+C:\Users\aniru\Downloads\DivingApp\BLL\bin\Debug\DAL.dll
+C:\Users\aniru\Downloads\DivingApp\BLL\bin\Debug\DAL.pdb
+C:\Users\aniru\Downloads\DivingApp\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\aniru\Downloads\DivingApp\BLL\obj\Debug\BLL.dll
+C:\Users\aniru\Downloads\DivingApp\BLL\obj\Debug\BLL.pdb
