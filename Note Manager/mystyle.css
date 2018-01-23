@@ -1,0 +1,134 @@
+.content-wrapper{
+	background-color: #eee;
+	height: 84px;
+}
+
+.logo-img{
+	float: left;
+	margin-left: 20px;
+}
+
+.name-img{
+	float: left;
+}
+
+.content-wrapper h2{
+	float: left;
+}
+
+#listView{
+	float: left;
+	width: 25%;
+}
+
+#listView1 {
+	overflow: scroll;
+}
+
+#listView2 {
+	height: 45px;
+}
+
+#detailedview{
+	float: left;
+	width: 45%;
+	background-color: #74AFAD;
+	height: 650px;
+	overflow: scroll;
+}
+
+#addNoteDiv{
+	float: left;
+	width: 30%;
+	background-color: #777;
+	height: 650px;
+}
+
+#addNew {
+	margin-top: 15px;
+	position: relative;
+    left: 40%;
+    top: 44%;
+}
+
+#addTable {
+	display: none;
+	padding-left: 40px;
+    padding-top: 25px;
+	border-collapse: collapse;
+}
+
+input{
+	width: 380px;
+}
+
+.tdspacetop {
+    padding-top: .9em;
+}
+
+.tdspacebot{
+	padding-top: .3em;
+}
+
+#updateList{
+	display: none;
+}
+
+#headerAdjustment1 {
+	width: 235px;
+    align-items: left;
+    text-align: start;
+}
+
+#headerAdjustment2 {
+	text-align: start;
+}
+
+#listBody td{
+	padding-top: 6px;
+}
+
+#countHead {
+	position: absolute;
+	font-size: x-small;
+	margin-left: 4px;
+}
+
+#countCharacHead {
+    position: absolute;
+	font-size: x-small;
+    margin-left: 280px;
+	display: none;
+}
+
+#countNo {
+	position: absolute;
+	font-size: x-small;
+	margin-left: 4px;
+	margin-top: 19px;
+}
+
+#countCharac {
+	position: absolute;
+	font-size: x-small;
+	margin-left: 280px;
+	margin-top: 19px;
+	display: none;
+}
+
+#listTable th {
+	font-weight: bold;
+}
+
+#uptBtn{
+	margin-left: 50px;
+}
+
+#clearBtn{
+	margin-left: 50px;
+}
+
+#headStyle{
+	background-color:#005A31;
+    color: white;
+}

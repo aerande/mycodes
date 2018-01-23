@@ -1,0 +1,28 @@
+extends layout
+
+block content
+  div.container  
+    include container
+      a.btn.btn-info.json_button(href="/api/books/"+book.id) API JSON data
+
+    div.back_div
+      a(href="/books") Back to List
+
+    div.image_div
+      img(src=""+book.image alt="Book Cover")
+
+    div.details_div
+      h1= book.name
+      table
+        tr
+          td.td1 By:
+          td.td2= book.author
+        tr
+          td.td1 Price:
+          td.td2 $#{book.price}
+        tr
+          td.td1 Year Published:
+          td.td2= book.published
+        tr
+          td.td1 Rating:
+          td.td2 #{book.stars} Stars (#{book.rating})

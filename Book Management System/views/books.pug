@@ -1,0 +1,29 @@
+extends layout
+
+block content
+  div.container    
+    include container
+      a.btn.btn-info.json_button(href="/api/books") API JSON data
+
+    div
+      table.table.table-striped
+        thead
+          tr
+            th ID
+            th Name
+            th Author
+            th Price ($)
+            th Year Published
+            th Rating
+            th 
+        tbody
+          each book in books
+            tr
+              td= book.id
+              td= book.name
+              td= book.author
+              td= book.price
+              td= book.published
+              td= book.rating
+              td
+                a.btn.btn-primary.btn-sm(href="/books/"+book.id) View Details

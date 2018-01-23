@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>ITMD 565 Project 1 - aerande</title>
+	<link rel="stylesheet" type="text/css" href="reset.css">
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+	<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+</head>
+<body>
+	<div class="content-wrapper">
+		<a href="app.html"><img src="images/notes-logo.png" width="80px" height="80px" class="logo-img">
+		<img src="images/cooltext232921575671044.png" width="400px" height="80px" class="name-img"></a>
+	</div>
+	
+	<div id="listView">
+		<div id="listView1">
+			<table id="listTable" class="table table-condensed">
+				<thead id="headStyle">
+					<tr>
+						<th id="headerAdjustment1">Subject</th>
+						<th id="headerAdjustment2">Date & Time</th>
+					</tr>
+				</thead>
+				<tbody id="listBody">
+				</tbody>
+			</table>
+		</div>
+		<div id="listView2">
+			<label id="countHead">Number of notes:</label>
+			<label id="countCharacHead">Characters:</label>
+			<label id="countNo"></label>
+			<label id="countCharac"></label>
+		</div>
+	</div>
+
+	<div id="detailedview">
+
+	</div>
+
+	<div id="addNoteDiv">
+		<button type="submit" id="addNew" class="btn btn-primary btn-lg active">Add a note</button>
+		<table id="addTable">
+			<tr>
+				<td><label>Subject</label></td>
+			</tr>
+			<tr>
+				<td class="tdspacebot"><input type="text" name="Subject" id="subject_textfield" /></td>
+			</tr>
+			<tr>
+				<td class="tdspacetop"><label>Message</label></td>
+			</tr>
+			<tr>
+				<td class="tdspacebot"><textarea cols="50" rows="10" id="message_textarea"></textarea></td>
+			</tr>
+			<tr>
+				<td class="tdspacetop"><label>Author Name</label></td>
+			</tr>
+			<tr>
+				<td class="tdspacebot"><input type="text" name="author" id="author_textfield"/></td>
+			</tr>
+			<tr>
+				<td class="tdspacetop"><button type="submit" id="addList" class="btn btn-success">Add</button></td>	
+			</tr>
+			<tr>
+				<td class="tdspacetop"><button type="submit" id="updateList" class="btn btn-info">Update</button></td>
+			</tr>
+			<tr>
+				<td class="tdspacetop"><button type="submit" id="cancelEverything" class="btn btn-warning">Cancel</button></td>
+			</tr>
+		</table>
+	</div>
+	<script type="text/javascript" src="myjs.js"></script>
+</body>
+</html>
